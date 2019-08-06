@@ -17,8 +17,7 @@ The optimal values will be set automatically.
 Bugs:
 The program has a few minor bugs still. You may not even notice them. I am working on multiple projects and will address the bugs as soon as I have time.
 
-Example: 
-
+----------Example----------
 Form:                                                                          
 -> Components: 02 Constrainsts: Minimize                                      
 -> Row: 1 Column: A Minimum Value: 1.5 Maximim Value: 8.6 Precision: 0.01 
