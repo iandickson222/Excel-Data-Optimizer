@@ -19,6 +19,7 @@ The program has a few minor bugs still. You may not even notice them. I am worki
 ----------Example----------
 
 Form:
+
 -> Components: 02 Constrainsts: Minimize                                      
 -> Row: 1 Column: A Minimum Value: 1.5 Maximim Value: 8.6 Precision: 0.01 
 -> Row: 1 Column: A Minimum Value: 0.1 Maximim Value: 5.0 Precision: 0.1
@@ -26,6 +27,7 @@ Form:
 -> Run
 
 Excel File:
+
  -> C1=A1/B1
          
          
