@@ -12,7 +12,6 @@ Instructions:
 6) Run -> Press Run.
 
 To exit midway, just close the Excel Application.
-The optimal values will be set automatically.
 
 Bugs:
 The program has a few minor bugs still. You may not even notice them. I am working on multiple projects and will address the bugs as soon as I have time.
