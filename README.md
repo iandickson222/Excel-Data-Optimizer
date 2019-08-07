@@ -13,9 +13,6 @@ Instructions:
 
 To exit midway, just close the Excel Application.
 
-Bugs:
-The program has a few minor bugs still. You may not even notice them. I am working on multiple projects and will address the bugs as soon as I have time.
-
 ----------Example----------
 
 Form:
